@@ -70,9 +70,9 @@ cekjadwal.DyningAidaBatrishya()
 
 
 #absen13
-from kelas_2b import innal
-inal=innal.innalkariem()
-inal.lagu()
+from kelas_2b import innal2
+inal=innal2.innalkariem()
+inal.nilai()
 
 
 #absen14
