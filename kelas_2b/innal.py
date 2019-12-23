@@ -2,7 +2,7 @@ import csv
 
 class innalkariem(object):
     def nilai(self):
-        with open('./kelas_2b/innal2.csv', 'r') as file:
+        with open('kelas_2b/innal.csv', 'r') as file:
             anggka = csv.reader(file, delimiter=',')
             for r in anggka:
                   print ("kode-kode dalam NPM")
